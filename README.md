@@ -2,7 +2,11 @@
 
 🔭 I’m currently working on [MyEMS](https://github.com/MyEMS). 
 
+MyEMS是行业领先的开源能源管理系统，利用云计算、物联网、大数据、人工智能等信息化技术构建而成。MyEMS可用于构建统一规范、功能强大的综合能源管理服务平台。MyEMS由资深专业团队开发维护，系统代码基于MIT开源软件许可协议发布。
+
 MyEMS is an industry leading open source Energy Management System that is built on cloud computing, IOT, Big Data and AI technologies. MyEMS can be used for a standard and powerful integrated energy management service platform. MyEMS is being developed and maintained by an experienced development team, and the system's source code is published under MIT license.
+
+MyEMS ist ein branchenführendes Open-Source-Energiemanagementsystem, das auf Cloud-Computing-, IOT-, Big Data- und AI-Technologien basiert. MyEMS kann für eine standardmäßige und leistungsstarke integrierte Energiemanagement-Serviceplattform verwendet werden. MyEMS wird von einem erfahrenen Entwicklungsteam entwickelt und gewartet, und der Quellcode des Systems wird unter MIT-Lizenz veröffentlicht.
 
 <!--
 **guangyuzhang/guangyuzhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

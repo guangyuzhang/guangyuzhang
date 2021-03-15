@@ -8,6 +8,8 @@ MyEMS is an industry leading open source Energy Management System that is built 
 
 MyEMS ist ein branchenführendes Open-Source-Energiemanagementsystem, das auf Cloud-Computing-, IOT-, Big Data- und AI-Technologien basiert. MyEMS kann für eine standardmäßige und leistungsstarke integrierte Energiemanagement-Serviceplattform verwendet werden. MyEMS wird von einem erfahrenen Entwicklungsteam entwickelt und gewartet, und der Quellcode des Systems wird unter MIT-Lizenz veröffentlicht.
 
+[![GuangyuZhang's GitHub stats](https://github-readme-stats.vercel.app/api?username=guangyuzhang)](https://github.com/guangyuzhang/github-readme-stats)
+
 <!--
 **guangyuzhang/guangyuzhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
